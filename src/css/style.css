@@ -1,0 +1,93 @@
+body {
+    font-family: "Oxanium", cursive;
+    background: #000000;
+    color: #F5F5F5;
+}
+
+body::before {
+    content: "";
+    background-image: url('../img/bg-desktop.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+    opacity: 0.2;
+}
+
+.cabecalho {
+    display: flex;
+    justify-content: center;
+}
+
+.selecao__personagens {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    min-height: calc(100vh - 152px);
+}
+
+.selecao__personagens .lista__personagens {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+.selecao__personagens .personagens {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 585px;
+    gap: 25px;
+}
+
+.selecao__personagens .personagens .titulo {
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    border-bottom: 2px solid #47F4FF;
+    width: 100%;
+    text-align: center;
+}
+
+.lista__personagens .personagem img {
+    width: 100%;
+    height: 100%;
+    border-bottom: 4px solid #47F4FF;
+}
+
+.lista__personagens .personagem.selecionado {
+    box-shadow: 0px 0px 24px 5px #0271F7;
+}
+
+.personagem__selecionado {
+    text-align: center;
+    max-height: 530px;
+}
+
+.personagem__selecionado .personagem__grande {
+    width: 430px;
+    height: 430px;
+}
+
+.personagem__selecionado .nome__personagem {
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    border-bottom: 2px solid #47F4FF;
+    text-align: center;
+}
+
+.personagem__selecionado .descricao__personagem {
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    margin-top: 20px;
+    width: 420px;
+}
