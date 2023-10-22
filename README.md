@@ -28,15 +28,10 @@ Contribuições são bem-vindas! Se você deseja melhorar este projeto, sinta-se
 
 Este projeto é licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
 
-## Autor
-
-- Seu Nome
-- Seu E-mail
-- Seu Perfil no GitHub
 
 ## Agradecimentos
 
-Agradecemos a todos os fãs dos X-Men por inspirar este projeto e a todos os desenvolvedores que contribuíram com código aberto e recursos que tornaram isso possível.
+Agradeço ao curso DEV EM DOBRO - SEMANA DEV que me ajudou a realizar o projeto
 
 ![X-Men](src/img/xmen_team.png)
 
