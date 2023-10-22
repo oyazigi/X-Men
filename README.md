@@ -1,10 +1,10 @@
 # X-Men Character Gallery
 
-![X-Men Logo](src/img/xmen_logo.png)
+![X-Men Logo](src/img/logo.svg)
 
 Este repositório é um projeto que cria um menu responsivo de personagens da série animada "X-Men". Quando o mouse é passado sobre qualquer um dos quadrados, uma foto do personagem, seu nome e sua descrição são exibidos na tela. O programa apresenta 8 personagens icônicos da série: Ciclope, Jean Grey, Lince Negra, Tempestade, Noturno, Wolverine, Magneto e Vampira.
 
-![X-Men Characters](src/img/xmen_characters.png)
+![X-Men Characters](src/img/card-wolverine.png)
 
 ## Como Funciona
 
@@ -24,15 +24,10 @@ Antes de usar este projeto, certifique-se de ter um navegador da web moderno que
 
 Contribuições são bem-vindas! Se você deseja melhorar este projeto, sinta-se à vontade para criar um fork, fazer suas alterações e enviar um pull request. Certifique-se de seguir as boas práticas de desenvolvimento e manter o código limpo.
 
-## Licença
-
-Este projeto é licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
-
-
 ## Agradecimentos
 
 Agradeço ao curso DEV EM DOBRO - SEMANA DEV que me ajudou a realizar o projeto
 
-![X-Men](src/img/xmen_team.png)
+![X-Men](src/img/card-magneto.png)
 
 Divirta-se explorando os personagens dos X-Men!
