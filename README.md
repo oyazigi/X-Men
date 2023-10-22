@@ -1,4 +1,4 @@
-# X-Men Character Gallery
+# Menu de seleção de personagens X-Men
 
 ![X-Men Logo](src/img/logo.svg)
 
